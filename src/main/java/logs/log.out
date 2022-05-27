@@ -1,0 +1,24 @@
+2022-05-26 14:05:651 INFO  HomePage :38 - Mouse Hovering on Buy & Sell Link. 
+2022-05-26 14:05:952 INFO  HomePage :50 - Mouse Hover & click on Find Dealer Link. 
+2022-05-26 14:05:434 INFO  FindDealersPage :33 - verifying find dealers url: '[[FirefoxDriver: firefox on WINDOWS (f33424f9-168c-47e8-8672-ae2167e2e3c4)] -> xpath: //h1[@class='dealer-title']]
+2022-05-26 14:05:653 INFO  FindDealersPage :41 - Fetching Dealers Name: 3 Point Motors Epping
+2022-05-26 14:05:796 INFO  FindDealersPage :41 - Fetching Dealers Name: 3 Point Motors Epping
+2022-05-26 14:05:461 INFO  FindDealersPage :51 - Clicking on next button.
+2022-05-26 14:05:797 INFO  FindDealersPage :41 - Fetching Dealers Name: 4WD Specialist Group
+2022-05-26 14:05:986 INFO  FindDealersPage :41 - Fetching Dealers Name: 4WD Specialist Group
+2022-05-26 14:05:253 INFO  FindDealersPage :51 - Clicking on next button.
+2022-05-26 14:05:307 INFO  FindDealersPage :41 - Fetching Dealers Name: 5 Star Auto Trade
+2022-05-26 14:05:343 INFO  FindDealersPage :41 - Fetching Dealers Name: 5 Star Auto Trade
+2022-05-26 14:05:443 INFO  FindDealersPage :41 - Fetching Dealers Name: 777 Pinoy Auto Sales
+2022-05-26 14:05:537 INFO  FindDealersPage :41 - Fetching Dealers Name: 777 Pinoy Auto Sales
+2022-05-26 14:05:101 INFO  FindDealersPage :51 - Clicking on next button.
+2022-05-26 14:05:226 INFO  FindDealersPage :41 - Fetching Dealers Name: A Cullen & Son
+2022-05-26 14:05:330 INFO  FindDealersPage :41 - Fetching Dealers Name: A Cullen & Son
+2022-05-26 14:05:911 INFO  FindDealersPage :51 - Clicking on next button.
+2022-05-26 14:05:110 INFO  FindDealersPage :41 - Fetching Dealers Name: ALL ABOUT CARS
+2022-05-26 14:05:173 INFO  FindDealersPage :41 - Fetching Dealers Name: ALL ABOUT CARS
+2022-05-26 14:05:436 INFO  FindDealersPage :51 - Clicking on next button.
+2022-05-26 14:05:84 INFO  FindDealersPage :51 - Clicking on next button.
+2022-05-26 14:05:729 INFO  FindDealersPage :51 - Clicking on next button.
+2022-05-26 14:05:848 INFO  FindDealersPage :41 - Fetching Dealers Name: AVON VALLEY TOYOTA
+2022-05-26 14:05:935 INFO  FindDealersPage :41 - Fetching Dealers Name: AVON VALLEY TOYOTA

@@ -1,0 +1,163 @@
+[
+  {
+    "line": 2,
+    "elements": [
+      {
+        "line": 4,
+        "name": "",
+        "description": "",
+        "type": "background",
+        "keyword": "Background",
+        "steps": [
+          {
+            "result": {
+              "duration": 255916200,
+              "status": "passed"
+            },
+            "line": 5,
+            "name": "I am on homepage",
+            "match": {
+              "location": "BackgroundSteps.iAmOnHomepage()"
+            },
+            "keyword": "Given "
+          },
+          {
+            "result": {
+              "duration": 2226992000,
+              "status": "passed"
+            },
+            "line": 6,
+            "name": "I mouse hover on “buy+sell” tab",
+            "match": {
+              "location": "BackgroundSteps.iMouseHoverOnBuySellTab()"
+            },
+            "keyword": "When "
+          }
+        ]
+      },
+      {
+        "before": [
+          {
+            "result": {
+              "duration": 12168717500,
+              "status": "passed"
+            },
+            "match": {
+              "location": "Hooks.setUp()"
+            }
+          }
+        ],
+        "line": 8,
+        "name": "Find the dealers and verify the dealers are in list",
+        "description": "",
+        "id": "find-the-dealers-and-verify;find-the-dealers-and-verify-the-dealers-are-in-list",
+        "after": [
+          {
+            "result": {
+              "duration": 1622135000,
+              "status": "passed"
+            },
+            "match": {
+              "location": "Hooks.tearDown(Scenario)"
+            }
+          }
+        ],
+        "type": "scenario",
+        "keyword": "Scenario",
+        "steps": [
+          {
+            "result": {
+              "duration": 291666300,
+              "status": "passed"
+            },
+            "line": 9,
+            "name": "I click Find a Dealer link",
+            "match": {
+              "location": "FindDealerSteps.iClickFindADealerLink()"
+            },
+            "keyword": "When "
+          },
+          {
+            "result": {
+              "duration": 540002200,
+              "status": "passed"
+            },
+            "line": 10,
+            "name": "I navigate to the car dealers page",
+            "match": {
+              "location": "FindDealerSteps.iNavigateToTheCarDealersPage()"
+            },
+            "keyword": "Then "
+          },
+          {
+            "result": {
+              "duration": 32431592200,
+              "status": "passed"
+            },
+            "line": 11,
+            "name": "I should see the dealer names are display on page",
+            "match": {
+              "location": "FindDealerSteps.iShouldSeeTheDealerNamesAreDisplayOnPage(DataTable)"
+            },
+            "rows": [
+              {
+                "cells": [
+                  "3 Point Motors Epping"
+                ],
+                "line": 12
+              },
+              {
+                "cells": [
+                  "4WD Specialist Group"
+                ],
+                "line": 13
+              },
+              {
+                "cells": [
+                  "5 Star Auto Trade"
+                ],
+                "line": 14
+              },
+              {
+                "cells": [
+                  "777 Pinoy Auto Sales"
+                ],
+                "line": 15
+              },
+              {
+                "cells": [
+                  "A Cullen \u0026 Son"
+                ],
+                "line": 16
+              },
+              {
+                "cells": [
+                  "ALL ABOUT CARS"
+                ],
+                "line": 17
+              },
+              {
+                "cells": [
+                  "AVON VALLEY TOYOTA"
+                ],
+                "line": 18
+              }
+            ],
+            "keyword": "And "
+          }
+        ]
+      }
+    ],
+    "name": "Find the dealers and verify",
+    "description": "",
+    "id": "find-the-dealers-and-verify",
+    "keyword": "Feature",
+    "uri": "finddealer.feature",
+    "tags": [
+      {
+        "line": 1,
+        "name": "@findDealer"
+      }
+    ]
+  }
+]
